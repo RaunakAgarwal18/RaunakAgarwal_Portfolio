@@ -328,7 +328,7 @@ i:hover::after{
     opacity: 0;
 }
 section.start-animation .title{
-    animation: top 1s ease forwards;
+    animation: top 0.8s ease forwards;
 }
 @keyframes top{
     0%{
@@ -353,7 +353,7 @@ section.start-animation .title{
     scale: 0;
 }
 section.start-animation .aboutImg{
-    animation: scaleout 1s ease forwards;
+    animation: scaleout 0.8s ease forwards;
 }
 @keyframes scaleout{
     0%{
@@ -372,7 +372,7 @@ section.start-animation .aboutImg{
     opacity: 0;
 }
 section.start-animation .text-content2 h2{
-    animation: Right 1s ease forwards;
+    animation: Right 0.8s ease forwards;
 }
 @keyframes Right{
     0%{
