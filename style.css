@@ -675,7 +675,7 @@ section.start-animation .btn{
     font-size: xx-large;
     
 }
-#email>p>a{
+#email a{
     /* text-decoration: none; */
     color: cyan;
 }
