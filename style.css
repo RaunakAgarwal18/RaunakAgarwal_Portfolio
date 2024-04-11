@@ -669,6 +669,16 @@ section.start-animation .btn{
     box-shadow: 0 0 .3rem cyan,
     0 0 .7rem cyan;
 }
+#email{
+    text-align: center;
+    font-weight: 800;
+    font-size: xx-large;
+    
+}
+#email>p>a{
+    /* text-decoration: none; */
+    color: cyan;
+}
 /* footer */
 
 footer{
